@@ -1,0 +1,288 @@
+[
+    {
+        "category": [
+            { 
+                "name": "Sweet",
+                "picture": "https://i.imgur.com/JZEi7M7.jpg"
+            },
+            { 
+                "name": "Vegetarian",
+                "picture": "https://i.imgur.com/bMrG1XB.jpg"
+            }
+        ],
+        "videoTitle": "Peanut Butter and Jam Cookies",
+        "videoId": "1QDGAzhhx5_VUKD4AxlWBzOjjj6MJAP4b",
+        "thumbnail": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fassets.marthastewart.com%2Fstyles%2Fwmax-750%2Fd18%2Fmld104118_1009_pbj%2Fmld104118_1009_pbj_l_0_horiz.jpg%3Fitok%3DL3amcOxD",
+        "chefName": "Gordon Ramsay",
+        "chefImg": "https://i.imgur.com/hya8bxa.jpg",
+        "categoryImg": "https://i.imgur.com/TkcN9SO.jpg",
+        "videoUrl":"https://storage.googleapis.com/simple-and-quick/Peanut%20Butter%20and%20Jam%20Cookies%20with%20a%20Caesar%20Salad%20_%20Gordon%20Ramsay.mp4"
+    },
+    {
+        "category": [
+            { 
+                "name": "Salty",
+                "picture": "https://i.imgur.com/ZmWbN7A.jpg"
+            }
+        ],
+        "videoTitle": "Delicious Spicy Rice With Sausage",
+        "videoId": "1N5VNf2aLnrEinCI8_XXxBWnrZLo3pRE4",
+        "thumbnail": "https://i.ytimg.com/vi/FP6E3JtmsCE/mqdefault.jpg",
+        "chefName": "Gordon Ramsay",
+        "chefImg": "https://i.imgur.com/hya8bxa.jpg",
+        "categoryImg": "https://i.imgur.com/09MeOo4.jpg",
+        "videoUrl":"https://storage.googleapis.com/simple-and-quick/Delicious%20Spicy%20Rice%20With%20Sausage%20_%20Gordon%20Ramsay.mp4"
+    },
+    {
+        "category": [
+            {
+                "name": "Sweet",
+                "picture": "https://i.imgur.com/JZEi7M7.jpg"
+            }
+        ],
+        "videoTitle": "Granola Recipe",
+        "videoId": "1kUe2dy3iUkxHcldtBFfwK2Q9bT-1ckfY",
+        "thumbnail": "https://images.immediate.co.uk/production/volatile/sites/30/2021/08/Nuts-and-seeds-granola-abee2ea.jpg",
+        "chefName": "Gordon Ramsay",
+        "chefImg": "https://i.imgur.com/hya8bxa.jpg",
+        "categoryImg": "https://i.imgur.com/TkcN9SO.jpg",
+        "videoUrl":"https://storage.googleapis.com/simple-and-quick/Gordon%20Ramsay's%20Granola%20Recipe.mp4"
+    },
+    {
+        "category":[
+            { 
+                "name": "Salty",
+                "picture": "https://i.imgur.com/ZmWbN7A.jpg"
+            }
+        ],
+        "videoTitle": "All American Burger",
+        "videoId": "1fEMP0XX1SaPQosytzr6xUb7_w0c3vRJN",
+        "thumbnail": "https://d9hyo6bif16lx.cloudfront.net/live/img/production/detail/menu/lunch-dinner_burgers_all-american-burger.jpg",
+        "chefName": "Gordon Ramsay",
+        "chefImg": "https://i.imgur.com/hya8bxa.jpg",
+        "categoryImg": "https://i.imgur.com/09MeOo4.jpg",
+        "videoUrl":"https://storage.googleapis.com/simple-and-quick/Gordon%20Ramsay%20Makes%20an%20All%20American%20Burger.mp4"
+    },
+    {
+        "category": [
+            {
+                "name": "Italian",
+                "picture": "https://i.imgur.com/odZZkRi.jpg"
+            }
+        ],
+        "videoTitle": "Spaghetti and Cherry Tomatoes",
+        "videoId": "1T20uZKL21-S49I8di6FVWvFyPDERNj22",
+        "thumbnail": "https://www.italianfoodforever.com/wp-content/uploads/2019/07/bursttomatopasta1-735x495.jpg",
+        "chefName": "Antonio Carluccio",
+        "chefImg": "https://i.imgur.com/oUVeX27.jpg",
+        "categoryImg": "https://i.imgur.com/odZZkRi.jpg",
+        "videoUrl":"https://storage.googleapis.com/simple-and-quick/Antonio%20Carluccio%20%20-%20Episode%203%20Spaghetti%20and%20Cherry%20Tomatoes.mp4"
+    },
+    {
+        "category": [
+            { 
+                "name": "Sweet",
+                "picture": "https://i.imgur.com/JZEi7M7.jpg"
+            }
+        ],
+        "videoTitle": "Salisbury Steak",
+        "videoId": "1Q3IGR6P6mCCX0WeMIlbbMVSiMvOtfO3-",
+        "thumbnail": "https://www.culinaryhill.com/wp-content/uploads/2021/01/Salisbury-Steak-Culinary-Hill-1200x800-2.jpg",
+        "chefName": "Bobby Flay",
+        "chefImg": "https://i.imgur.com/UVJ7F9n.jpg",
+        "categoryImg": "https://i.imgur.com/09MeOo4.jpg",
+        "videoUrl":"https://storage.googleapis.com/simple-and-quick/Bobby%20Flay%E2%80%99s%20Salisbury%20Steak.mp4"
+    },
+    {
+        "category": [
+            { 
+                "name": "Sweet",
+                "picture": "https://i.imgur.com/JZEi7M7.jpg"
+            }
+        ],
+        "videoTitle": "Microwave mug muffin",
+        "videoId": "1RXrDHDfPqK5SQt10vzkdr8JItITUJKg3",
+        "thumbnail": "https://www.biggerbolderbaking.com/wp-content/uploads/2015/06/BBB76-1-Minute-Microwave-Breakfasts-Thumbnail-final-3.jpg",
+        "chefName": "Lorraine Pascale",
+        "chefImg": "https://i.imgur.com/MGKPttM.jpg",
+        "categoryImg": "https://i.imgur.com/TkcN9SO.jpg",
+        "videoUrl":"https://storage.googleapis.com/simple-and-quick/Microwave%20mug%20muffin%20ready%20in%201%20minute%20__%20Blueberry%20flavour!.mp4"
+    },
+    {
+        "category": [
+            { 
+                "name": "Sweet",
+                "picture": "https://i.imgur.com/JZEi7M7.jpg"
+            }
+        ],
+        "videoTitle": "Chocolate Chip Cookies Delish",
+        "videoId": "1WN43q5cgX3cFSwdTqo018J1kK0EEWGhQ",
+        "thumbnail": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/makinze-s-beauty-vertical-2-1552654397.png?crop=1.00xw:0.667xh;0,0.182xh&resize=480:*",
+        "chefName": "Duff Goodman",
+        "chefImg": "https://i.imgur.com/H95IxXU.jpg",
+        "categoryImg": "https://i.imgur.com/TkcN9SO.jpg",
+        "videoUrl":"https://storage.googleapis.com/simple-and-quick/Duff%20Goodman%20-%20Best%20Chocolate%20Chip%20Cookies%20_%20Delish.mp4"
+    },
+    {
+        "category": [
+            { 
+                "name": "Sweet",
+                "picture": "https://i.imgur.com/JZEi7M7.jpg"
+            }
+        ],
+        "videoTitle": "Chocolate Cake",
+        "videoId": "1TZ64xhXhofNiPIt60EJ6kzt96F11hDVv",
+        "thumbnail": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/0A475B34-4E78-40D8-9F30-46223B7D77E7/Derivates/E55C7EA4-0E60-403F-B5DC-75EA358197BD.jpg",
+        "chefName": "Duff Goodman",
+        "chefImg": "https://i.imgur.com/H95IxXU.jpg",
+        "categoryImg": "https://i.imgur.com/TkcN9SO.jpg",
+        "videoUrl":"https://storage.googleapis.com/simple-and-quick/Duff%20Goldman%E2%80%99s%20Chocolate%20Cake.mp4"
+    },
+    {
+        "category": [
+            { 
+                "name": "Sweet",
+                "picture": "https://i.imgur.com/JZEi7M7.jpg"
+            }
+        ],
+        "videoTitle": "Carrot Cake",
+        "videoId": "1PHtmNOxFUkV5L9jwfj5e-NZnCd9G_FJ8",
+        "thumbnail": "https://www.afuegolento.com/img_db/timthumb.php?src=img_db/interviews/2020/11/interview-5fb3935115d2d.jpg&w=800&z=1",
+        "chefName": "Duff Goodman",
+        "chefImg": "https://i.imgur.com/H95IxXU.jpg",
+        "categoryImg": "https://i.imgur.com/TkcN9SO.jpg",
+        "videoUrl":"https://storage.googleapis.com/simple-and-quick/Duff%20Goldman's%20Carrot%20Cake.mp4"
+    },
+    {
+        "category": [
+            { 
+                "name": "Asian",
+                "picture": "https://i.imgur.com/uAexOr1.jpg"
+            }
+        ],
+        "videoTitle": "Spicy Shrimp",
+        "videoId": "1ALPSbaU2AjhQlTR5vND-9rQHJpt8B_QC",
+        "thumbnail": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2004/3/18/0/tm1d20_spicy_garlic_shrimp_copy.jpg.rend.hgtvcom.616.462.suffix/1547649189594.jpeg",
+        "chefName": "David Chang",
+        "chefImg": "https://i.imgur.com/7GKh90z.jpg",
+        "categoryImg": "https://i.imgur.com/Lyg3Xhi.jpg",
+        "videoUrl":"https://storage.googleapis.com/simple-and-quick/David%20Chang%20Makes%20Easy%20Weeknight%20Spicy%20Shrimp.mp4"
+    },
+    {
+        "category": [
+            { 
+                "name": "Asian",
+                "picture": "https://i.imgur.com/uAexOr1.jpg"
+            }
+        ],
+        "videoTitle": "Savory One-pot Korean Short Rib Stew",
+        "videoId": "13G-xC3y9yP160hiKu0lX6GPULG-pFcJS",
+        "thumbnail": "https://momofuku-assets.s3.amazonaws.com/uploads/sites/37/2020/10/short_rib_stew-resize.jpg",
+        "chefName": "David Chang",
+        "chefImg": "https://i.imgur.com/7GKh90z.jpg",
+        "categoryImg": "https://i.imgur.com/Lyg3Xhi.jpg",
+        "videoUrl":"https://storage.googleapis.com/simple-and-quick/David%20Chang%20Makes%20Savory%20One-pot%20Korean%20Short%20Rib%20Stew.mp4"
+    },
+    {
+        "category": [
+            { 
+                "name": "Asian",
+                "picture": "https://i.imgur.com/uAexOr1.jpg"
+            }
+        ],
+        "videoTitle": "A Weeknight Ramen Hack",
+        "videoId": "1nCwD4VGW3zKcses7QqBjV0Hih2dWB6-e",
+        "thumbnail": "https://www.paulinacocina.net/wp-content/uploads/2021/12/Ramen-receta.jpg",
+        "chefName": "Dale Talde",
+        "chefImg": "https://i.imgur.com/DntiODM.jpg",
+        "categoryImg": "https://i.imgur.com/Lyg3Xhi.jpg",
+        "videoUrl":"https://storage.googleapis.com/simple-and-quick/Momofuku%20Chef%20Shares%20A%20Weeknight%20_Ramen_%20Hack.mp4"
+    },
+    {
+        "category": [
+            { 
+                "name": "Salty",
+                "picture": "https://i.imgur.com/ZmWbN7A.jpg"
+            },
+            { 
+                "name": "Asian",
+                "picture": "https://i.imgur.com/uAexOr1.jpg"
+            }
+        ],
+        "videoTitle": "Pad Tai",
+        "videoId": "1ccwMfhY7vG9P4fZPJa8wyWBXBMUWaFil",
+        "thumbnail": "https://static01.nyt.com/images/2020/02/10/dining/roy-choi-stew/merlin_167226090_3ff938cd-6b16-47b1-880e-fec6453c9765-articleLarge.jpg",
+        "chefName": "Dale Talde",
+        "chefImg": "https://i.imgur.com/DntiODM.jpg",
+        "categoryImg": "https://i.imgur.com/Lyg3Xhi.jpg",
+        "videoUrl": "https://storage.googleapis.com/simple-and-quick/A%20Look%20Inside%20Brooklyn%20Chef's%20Table_%20Making%20Pad%20Thai%20with%20Dale%20Talde.mp4"
+    },
+    {
+        "category": [
+            { 
+                "name": "Asian",
+                "picture": "https://i.imgur.com/uAexOr1.jpg"
+            }
+        ],
+        "videoTitle": "Breakfast ramen",
+        "videoId": "1v5Z7IE4VWyrCQ1YeSt6HaJ3tlB384b0-",
+        "thumbnail": "https://www.framedcooks.com/wp-content/uploads/2021/02/easy-best-breakfast-ramen.jpg",
+        "chefName": "Dale Talde",
+        "chefImg": "https://i.imgur.com/DntiODM.jpg",
+        "categoryImg": "https://i.imgur.com/Lyg3Xhi.jpg",
+        "videoUrl":"https://storage.googleapis.com/simple-and-quick/Celebrity%20chef%20Dale%20Talde%20shows%20how%20to%20make%20breakfast%20ramen.mp4"
+    },
+    {
+        "category": [
+            {
+                "name": "Italian",
+                "picture": "https://i.imgur.com/odZZkRi.jpg"
+            },
+            {
+                "name": "Vegetarian",
+                "picture": "https://i.imgur.com/bMrG1XB.jpg"
+            }
+        ],
+        "videoTitle": "How to make Pesto",
+        "videoId": "1tWa0YMLWq2p0ugGVMULMxVFvuwUn2XR5",
+        "thumbnail": "https://i.blogs.es/8fd947/salsa-pesto/840_560.jpg",
+        "chefName": "Massimo Bottura",
+        "chefImg": "https://i.imgur.com/MWcRime.jpg",
+        "categoryImg": "https://i.imgur.com/odZZkRi.jpg",
+        "videoUrl":"https://storage.googleapis.com/simple-and-quick/How%20to%20Make%20Pesto%20with%20Massimo%20Bottura%2C%20Chef%20of%20the%20%231%20Ranked%20Restaurant%20in%20the%20World.mp4"
+    },
+    {
+        "category": [
+            {
+                "name": "Italian",
+                "picture": "https://i.imgur.com/odZZkRi.jpg"
+            }
+        ],
+        "videoTitle": "Orecchiette With Italian Sausage",
+        "videoId": "1EOIIp3PLAtOKxE8Y7WDrvQ8BjlkMZzhl",
+        "thumbnail": "https://www.johnsonville.com/dam/jcr:2260d3a6-27c8-4a4d-a060-4c0830201e73/zesty-italian-sausage-pasta",
+        "chefName": "Gino D'Acampo",
+        "chefImg": "https://i.imgur.com/PiF2DU8.jpg",
+        "categoryImg": "https://i.imgur.com/odZZkRi.jpg",
+        "videoUrl":"https://storage.googleapis.com/simple-and-quick/Orecchiette%20With%20Italian%20Sausage%20As%20Made%20By%20Gino%20D'Acampo.mp4"
+    },
+    {
+        "category": [
+            {
+                "name": "Italian",
+                "picture": "https://i.imgur.com/odZZkRi.jpg"
+            },
+            {
+                "name": "Vegetarian",
+                "picture": "https://i.imgur.com/bMrG1XB.jpg"
+            }
+        ],
+        "videoTitle": "Mamma's Chicken Risotto",
+        "videoId": "10606SDUCP709ujxJ7CsbT9MghX0YEW_8",
+        "thumbnail": "https://www.macheesmo.com/wp-content/uploads/2020/05/Rotisserie-Chicken-Risotto-1008x700.jpg",
+        "chefName": "Gino D'Acampo",
+        "chefImg": "https://i.imgur.com/PiF2DU8.jpg",
+        "categoryImg": "https://i.imgur.com/odZZkRi.jpg",
+        "videoUrl":"https://storage.googleapis.com/simple-and-quick/Mamma's%20Chicken%20Risotto%20by%20Gino%20D'Acampo%20-%20Organic%20Arborio%20Rice.mp4"
+    }
+]
