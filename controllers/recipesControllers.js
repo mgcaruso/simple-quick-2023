@@ -22,7 +22,7 @@ const recipesControllers = {
         let recipe;
         const error = null;
         try {
-            recipe = await Recipe.findOne({ _id: id })
+            recipe = await Recipe.findOne({ _id: id }).populate("chefId")
         } catch (err) { error = err }
         res.json({
             res: error ? 'ERROR' : recipe,

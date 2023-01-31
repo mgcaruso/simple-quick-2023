@@ -79,34 +79,6 @@ Router.route('/recipesByChef/:chefId')
 .get(getRecipesByChef)
 
 
-    //ACTIVITIES
-
-const activitiesControllers = require('../controllers/activitiesControllers');
-const { getActivities, addActivity, getOneActivity, modifyActivity, removeActivity, activityFromItinerary } = activitiesControllers
-    
-Router.route('/activities')
-    .get(getActivities)
-    .post(addActivity)
-
-Router.route('/activities/:id')
-    .get(getOneActivity)
-    .put(modifyActivity)
-    .delete(removeActivity)
-
-Router.route('/actitivityFromTin/:id')
-    .get(activityFromItinerary)
-
-
-    //COMMENTS
-const commentsControllers = require('../controllers/commentsControllers');
-const { addComment, editComment, deleteComment } = commentsControllers
-
-Router.route('/comments')
-.post(passport.authenticate('jwt', {session: false}) , addComment)
-.put(passport.authenticate('jwt', {session: false}) , editComment)
-
-Router.route('/comments/:id')
-.post(passport.authenticate('jwt', {session: false}) , deleteComment)
 
 
 
