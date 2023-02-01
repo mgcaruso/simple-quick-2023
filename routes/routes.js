@@ -1,41 +1,10 @@
 const Router = require('express').Router(); //permite leer los endpoints
 const passport = require('../config/passport')
 
-const citiesControllers = require('../controllers/citiesControllers');
-const { getCities, getOneCity, addCity, modifyCity, removeCity } = citiesControllers;
-
-Router.route('/cities')
-    .get(getCities)
-    .post(addCity)
-
-Router.route('/cities/:id')
-    .delete(removeCity)
-    .put(modifyCity)
-    .get(getOneCity)
 
 
 
 //NEW - INFO TO CHECK
-const itinerariesControllers = require('../controllers/itinerariesControllers')
-const { getItineraries, addItinerary, getOneItinerary, modifyItinerary, removeItinerary, getItineraryByCity, likesDislikes } = itinerariesControllers
-Router.route('/itineraries')
-    .get(getItineraries)
-    .post(addItinerary)
-
-Router.route('/itineraries/:id')
-    .get(getOneItinerary)
-    .put(modifyItinerary)
-    .delete(removeItinerary)
-
-
-Router.route('/itineraryByCity/:id')
-    .get(getItineraryByCity)
-
-Router.route('/itineraries/likes/:id')
-    .put(passport.authenticate('jwt', {session: false}) , likesDislikes)
-
-
-//USERS
 
 
 const usersControllers = require('../controllers/usersControllers');
