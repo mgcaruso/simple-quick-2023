@@ -31,7 +31,8 @@ Router.route('/auth/signInToken')
 
 //RECEIPES
 
-const recipesControllers = require('../controllers/recipesControllers')
+const recipesControllers = require('../controllers/recipesControllers');
+const chefsControllers = require('../controllers/chefControllers');
 const { getAllRecipes, getOneRecipe, getRecipesByCategory, getRecipesByChef, addRecipe } = recipesControllers
 
 Router.route('/recipes')
@@ -47,6 +48,14 @@ Router.route('/recipesByCategory/:category')
 Router.route('/recipesByChef/:chefId')
 .get(getRecipesByChef)
 
+//CHEFS
+
+const {getAllChefs, getOneChef} = chefsControllers
+Router.route('/chefs')
+.get(getAllChefs)
+
+Router.route('/chef/:id')
+.get(getOneChef)
 
 
 

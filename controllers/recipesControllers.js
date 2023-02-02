@@ -20,7 +20,8 @@ const recipesControllers = {
     getOneRecipe: async(req, res) => {
         const id = req.params.id;
         let recipe;
-        const error = null;
+        let error = null;
+        console.log(id);
         try {
             recipe = await Recipe.findOne({ _id: id }).populate("chefId")
         } catch (err) { error = err }

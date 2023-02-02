@@ -7,4 +7,4 @@ const chefSchema = new mongoose.Schema({
 
 const Chef = mongoose.model('chefs', chefSchema) 
 
-module.export = Chef
+module.exports = Chef
